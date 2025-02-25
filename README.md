@@ -6,6 +6,7 @@
 
 # Naming cheatsheet
 
+- [Example](#example1)
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
@@ -24,6 +25,16 @@
 Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
+## Example
+Use github for working it teams. It's gonna be the first commit
+Example C++ code:
+
+```#include <iostream>
+int main()
+{
+	std::cout << "hi!";
+	return 0;
+}```
 
 ## English language
 

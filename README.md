@@ -34,7 +34,8 @@ int main()
 {
 	std::cout << "hi!";
 	return 0;
-}```
+}
+```
 
 ## English language
 
